@@ -1,4 +1,5 @@
 📖 Introduction
+
 The Finance Ecommerce Dataset Analysis project aims to explore, clean, and analyze a large dataset containing detailed financial transaction records from an e-commerce platform. This dataset provides a comprehensive view of customer purchasing behavior, transaction trends, and potential indicators of fraudulent activity.
 
 The dataset includes key financial and demographic attributes such as TransactionID, Date, AccountID, TransactionType, Amount, Balance, and Currency, along with merchant-related details like Merchant, Category, and Subcategory. It also incorporates customer information such as Country, City, PostalCode, Email, Phone, and CustomerSince, enabling deeper insights into geographic and behavioral spending patterns.
