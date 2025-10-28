@@ -5,7 +5,6 @@ The Finance Ecommerce Dataset Analysis project aims to explore, clean, and analy
 The dataset includes key financial and demographic attributes such as TransactionID, Date, AccountID, TransactionType, Amount, Balance, and Currency, along with merchant-related details like Merchant, Category, and Subcategory. It also incorporates customer information such as Country, City, PostalCode, Email, Phone, and CustomerSince, enabling deeper insights into geographic and behavioral spending patterns.
 
 📊 Dataset Description
-Source of Topic- Google
 
 Download URL- https://www.kaggle.com/datasets/ranilnr/finance-ecommerce-dirty-dataset-csv
 
