@@ -18,6 +18,7 @@ File Type - csv
 File Name - Finance_Ecommerce_Dirty_Dataset_csv.csv
 
 🎯 Objective
+
 The primary objective of this analysis is to explore and understand financial transaction data from an e-commerce platform. Using Python, we aim to clean, transform, and analyze the dataset to extract valuable business insights — such as spending patterns, fraud detection, customer behavior, and transaction trends over time.
 
 Cleaning & Standardization
